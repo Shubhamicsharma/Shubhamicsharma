@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shubhamicsharma/Shubhamicsharma/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shubhamicsharma/Shubhamicsharma/main/snake.svg" alt="Snake animation" />
 
 ###
