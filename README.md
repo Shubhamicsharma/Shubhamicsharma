@@ -52,10 +52,10 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://drive.google.com/file/d/1y95VhOEIXsW-gdSDt2hUbSHX3WkWWgt7/uc?export=download"  />
+  <img height="250" src="https://github.com/Shubhamicsharma/Shubhamicsharma/blob/main/CPT2403272040-1535x740.gif"  />
 </div>
 
-![Alt Text](https://drive.google.com/file/d/1y95VhOEIXsW-gdSDt2hUbSHX3WkWWgt7/uc?export=download)
+![Alt Text](https://github.com/Shubhamicsharma/Shubhamicsharma/blob/main/CPT2403272040-1535x740.gif)
 
 
 <div align="center">
