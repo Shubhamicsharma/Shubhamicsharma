@@ -36,6 +36,7 @@
   <a href="mailto:shubhamicsharma@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
+  [![LeetCode user shubhamicsharma](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fshubhamicsharma&logo=leetcode&logoColor=yellow)](https://leetcode.com/shubhamicsharma/)
 </div>
 
 ###
