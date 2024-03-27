@@ -52,10 +52,10 @@
 ###
 
 
-[![Alt Text](https://github.com/Shubhamicsharma/Shubhamicsharma/blob/main/CPT2403272040-1535x740.gif)](https://shubham-sharma-portfolio.onrender.com/)
-<a>
-  <h4 href = "https://shubham-sharma-portfolio.onrender.com/" align="center"><i><u>Portfolio</u></i></h4>
+<a href = "https://shubham-sharma-portfolio.onrender.com/">
+  <h4 align="center"><i><u>Portfolio</u></i></h4>
 </a>
+[![Alt Text](https://github.com/Shubhamicsharma/Shubhamicsharma/blob/main/CPT2403272040-1535x740.gif)](https://shubham-sharma-portfolio.onrender.com/)
 
 
 <div align="center">
