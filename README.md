@@ -51,11 +51,8 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://github.com/Shubhamicsharma/Shubhamicsharma/blob/main/CPT2403272040-1535x740.gif"  />
-</div>
 
-![Alt Text](https://github.com/Shubhamicsharma/Shubhamicsharma/blob/main/CPT2403272040-1535x740.gif)
+[![Alt Text](https://github.com/Shubhamicsharma/Shubhamicsharma/blob/main/CPT2403272040-1535x740.gif)](https://shubham-sharma-portfolio.onrender.com/)
 
 
 <div align="center">
