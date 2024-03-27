@@ -8,7 +8,7 @@
 <br clear="both">
 
 
-<div align="center">
+<div align="center" style="border: 1px solid white; padding: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="75" alt="cplusplus logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75" alt="html5 logo"  />
@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="center style="border: 1px solid white; padding: 10px;"">
   <a href="https://www.linkedin.com/in/shubhamicsharma/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
